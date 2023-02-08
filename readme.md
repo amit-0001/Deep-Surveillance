@@ -42,3 +42,5 @@ Based on the above data we are going to test and train various models from above
 1. ResNet50V2
 1. MobileNetV2
 1. NASNetMobile
+
+[![violence](play('./real-life-violence-situations-dataset/Real Life Violence Dataset/Violence/V_192.mp4'))]
